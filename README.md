@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/Singameplay/ocbadge/main/card.svg"/>
-export OC_TOKEN=*****
-python3 gen.py style
